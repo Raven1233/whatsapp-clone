@@ -1,3 +1,15 @@
+# Description:-
+This is an Whatsapp clone that was developed using NextJs and Firebase(for the backend). This website uses Context api to save the details of the user and stores it in Firestore database.
+
+
+# What i learnt in this project:-
+1) Better understanding of Firebase and Firestore.
+2) Working with NextJS.
+3) Better understanding of ContextApi.
+
+
+I will later host this app as I am currently facing a few problems with regards to hosting.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
