@@ -1,5 +1,7 @@
 # Description:-
-This is an Whatsapp clone that was developed using NextJs and Firebase(for the backend). This website uses Context api to save the details of the user and stores it in Firestore database.
+This is an Whatsapp clone that was developed using NextJs and Firebase(for the backend). This website uses Context api to save the details of the user and stores it in Firestore database. The website uses google authentication and therefore to start a new chat, you need to add the email of the user you want to chat with. 
+
+### To Logout of the app, simply click on your avatar on the top-left corner.
 
 
 # What i learnt in this project:-
