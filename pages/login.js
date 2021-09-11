@@ -29,7 +29,7 @@ const Container=styled.div`
      display: grid;
      place-items: center;
      height: 100vh;
-     background-color: whitesmoke;
+     background-image: url("https://dzbc.org/wp-content/uploads/data/2018/2/19/Background.max-x-PIC-MCH043354.jpg");
 `;
 
 
