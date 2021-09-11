@@ -9,7 +9,7 @@ This is an Whatsapp clone that was developed using NextJs and Firebase(for the b
 2) Working with NextJS.
 3) Better understanding of ContextApi.
 
-### You can check out the live website [here](https://whatsapp-clone-ten-nu.vercel.app).
+### You can check out the live website here: [Link](https://whatsapp-clone-ten-nu.vercel.app).
 
 # Screenshots of the app:-
 <image src="./ss/1.png" alt="pic1"/>
