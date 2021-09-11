@@ -12,7 +12,7 @@ This is an Whatsapp clone that was developed using NextJs and Firebase(for the b
 ### You can check out the live website here: [Link](https://whatsapp-clone-ten-nu.vercel.app).
 
 # Screenshots of the app:-
-<image src="./ss/1.png" alt="pic1"/>
+<image src="./ss/1.1.png" alt="pic1"/>
 <image src="./ss/2.png" alt="pic2"/>
 <image src="./ss/3.png" alt="pic3"/>
 
